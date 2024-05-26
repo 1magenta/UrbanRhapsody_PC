@@ -1,0 +1,2061 @@
+fileFormatVersion: 2
+guid: 1a66a559065f5b54e95d787771600a2d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gardening tool_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2760
+        width: 237
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73fb1f7df87d34aa1e04d242c4059a
+      internalID: 798189055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2779
+        width: 98
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c7c45d11145345a788af708d974f0
+      internalID: 1357872021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_2
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2779
+        width: 127
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe4c4f1bb683946a6333836e89c6e2
+      internalID: -997681125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2780
+        width: 203
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631db37cd7e6e1e45ae4bc5d396d3a51
+      internalID: 1483212873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_4
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 2872
+        width: 330
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c999d651959ade3448a3226ed236730e
+      internalID: 1323781148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_5
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 2781
+        width: 129
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7448578281a2218409911e951057419a
+      internalID: -857820342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_6
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2779
+        width: 307
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9479dbc0884e4faddf41f1221a71b
+      internalID: 2130215436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2146
+        width: 330
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10f69e6bba6324b9c4e7a42413d4ac
+      internalID: 864180809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_8
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2312
+        width: 138
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291894eef7adc4142a6f1446e4491b63
+      internalID: 1737023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2127
+        width: 43
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d7da40bba13e41ad67fa3cdd890fa
+      internalID: 552158920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_10
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2150
+        width: 331
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cedd4e17c4e90d44a31329c0c4a698f
+      internalID: 1003449431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_11
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 2126
+        width: 81
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e398d016512dcc741ad1b781e45292e9
+      internalID: -1836826512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_12
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 2124
+        width: 80
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8b4e9b1503f74fa03fde24c335e56
+      internalID: 198749074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_13
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2127
+        width: 169
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b4cd6ba8a7574db0e4c0af09dd15f
+      internalID: -1487421000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_14
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 2126
+        width: 150
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0ed74f5f6a3347940df0a5c684a16
+      internalID: -871483801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1424
+        width: 339
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96882fb6f5ff9dd4685417270cbed8b0
+      internalID: -131134092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_16
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1471
+        width: 176
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f618488b986043ad37f6c90070e83
+      internalID: -1567574367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_17
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1472
+        width: 201
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f3c501937c3f409dd496509e84406
+      internalID: 1469015777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_18
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1471
+        width: 155
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d672c0ba1800b74090c0b1bd4ae210d
+      internalID: 820150276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_19
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1773
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b6a1855815224fbf75cf90bfb3974
+      internalID: 334497805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_20
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1546
+        width: 304
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060437a8be76f5b44aaf8ce504970596
+      internalID: -1774826897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_21
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 1760
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37e7cb534f6614ca5cf6089ba420d1
+      internalID: -1425877165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_22
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 1760
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e49c114378e7544a4a3a598aba9b5b
+      internalID: -900768795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_23
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 1759
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794aa3f4d1e0a04c9c5d299eb5d1de4
+      internalID: -1688769512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_24
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1526
+        width: 330
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5def897114d045914682a9aaa05ea
+      internalID: 907200306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_25
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1745
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dfca9948b1d19478a6e1c4231c7c90
+      internalID: 324066622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_26
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 1728
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14b9cfcc2a7ea479f9cef6ed96fac4
+      internalID: -1713595691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_27
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1569
+        width: 330
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac6cec3d4ba714e8320620f04fd577
+      internalID: -140492364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_28
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1540
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a38d21eee7aa4ca2cabc1b712c253
+      internalID: 1764019831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_29
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 1540
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6474b32f2a5431428855fa971b57c55
+      internalID: 873828753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_30
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 1507
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9532d72d702f4c54baeefc43b4df33f1
+      internalID: -781018314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1131
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350ab5793ac21f4aac965009532b8da
+      internalID: -1266406121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1135
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f72b9c0c5a0b464da6afd64452ee20e
+      internalID: -943126252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e493c245daa88e48971786aa28d819a
+      internalID: -1116307862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_34
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 817
+        width: 305
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d309f80c06707429934d0c97490825
+      internalID: -1149430021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_35
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 816
+        width: 278
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e3f2e8e9ab4e4f9f306461cf65bff
+      internalID: -452583270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_36
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 1028
+        width: 238
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c47925c9b68442a2a4bef2453617f
+      internalID: 727185363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725606ee92fea9947b12f171866237a7
+      internalID: 1865866513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e440a95af0594f4ca23bbfc70f3285b
+      internalID: -271642890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1121
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16150e710967904aa3862ae17b1544d
+      internalID: 1581767419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaef21196c5562c4fabf033e5ffb5dc5
+      internalID: -1387448822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1120
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853452831d3194d4d9994b96f4bb8be3
+      internalID: -241952089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1097
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a301da0523364883281e8a5148fc7
+      internalID: 88324289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1107
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02ceabaad18334b892c6bb437d1558
+      internalID: 565460290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_44
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1097
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f850c79212494887917943c4eabbb
+      internalID: -909523658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1086
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58369c591acaa44943a6e52d17ce55
+      internalID: 257554587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1093
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99ddabd89ddae42873c32161400247
+      internalID: 1946584614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_47
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1086
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be5d120754f7e478c35342dd7e8e6f
+      internalID: -931483229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_48
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 862
+        width: 163
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9d317c0317c9468534ede1751d569
+      internalID: -75799360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_49
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 862
+        width: 182
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf966be4f91f74dad02cf8c4100c38
+      internalID: 1937400739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_50
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 816
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d015c95667a545bb0694b7c228529
+      internalID: -2069297756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_51
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1075
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafd686f2b2f83d44a8e965157c752d2
+      internalID: -1622334934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1079
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f938b0898f785f64bb85e2183dd08b16
+      internalID: -914331497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_53
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1075
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6379a93d14ed2a14e816fedc5e5baf11
+      internalID: 1248886716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_54
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 888
+        width: 316
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a679bc442e7644b883d9d1ce4d22ef
+      internalID: 1327971659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1064
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f21ef25865f2f41acb6d5e9776beeb
+      internalID: -43630764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_56
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1052
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ccf9a0e07ce546ae46256f18561f7
+      internalID: 597340248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1065
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f770695103026a844b254182979a5299
+      internalID: -900860082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1052
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095e78ad6218c14a8f0694377bc6da0
+      internalID: 1712220871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1064
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22924e498af1a46a2eddcd196dd949
+      internalID: 1895405984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1041
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4279e39eeeba1141b2369ef6a9f33b0
+      internalID: 1048416580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1050
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e9554635950a242a8da39cbee92dba
+      internalID: -1490035784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1041
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a24764fe1ff4f4684a246cd94931af
+      internalID: 971626851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_63
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 900
+        width: 311
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a36010027bd94b9e7a2111736ca4d
+      internalID: 150081766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1030
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e68b14801ed5a4c84f21d4c2d0225a
+      internalID: -1914453461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1037
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c02c3867492e47820f0dc2f520c50
+      internalID: 226111784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_66
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1030
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a8fffa49c6c24187b4a45dd7377b4
+      internalID: -1600537013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1019
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa2b9918437fd4da0c54154e9826c9
+      internalID: -900146121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_68
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1022
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dc1411b9af4454bbc81e941d90f02f
+      internalID: -754736291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_69
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1019
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2035db88257087044b5f1a5418027d59
+      internalID: 630072557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 816
+        width: 258
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8eef38432ff049bb9505fff4b00f9
+      internalID: 630719376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_71
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 873
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0781b8f2e308b4eaad16359609f3b9
+      internalID: -1683121656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_72
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 873
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b570373f1a47489be89137839d447
+      internalID: -458559655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_73
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 900
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed1623e6853c64ab365ef39846a1a7
+      internalID: 1982541703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 162
+        width: 238
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92fb986eca678c478afc8d5deb200a2
+      internalID: 843989902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_75
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 314
+        width: 161
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c127e46f43b874894eaadfe401220f
+      internalID: -1020394511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_76
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 290
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd17faa2d1851644ba6c05747a56473
+      internalID: -20843919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_77
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 183
+        width: 330
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1beb050e5ad754b9ce0f30e873f445
+      internalID: 123332545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_78
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 164
+        width: 286
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcc40422d6ba1349a1328f7671d4d60
+      internalID: -1730313955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_79
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 164
+        width: 250
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781c99b2c119d64198bdf7e0d697a79
+      internalID: -915971595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_80
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 162
+        width: 147
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0738b207c1ac43981147abe467b26
+      internalID: -1842397461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_81
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 215
+        width: 330
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeaabb4352910f4c9d894d6107809b6
+      internalID: 1137007495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_82
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 284
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a91f08614ea8540bccd33fa6809195
+      internalID: -501856869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_83
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 194
+        width: 331
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0337360ef28d22499b7759e49035d23
+      internalID: 239288681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_84
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 260
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d37863efee11438925bfad6d6e52d
+      internalID: 1760167426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_85
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 251
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb95158ded32a3542bbf16884245f5f8
+      internalID: -566792777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gardening tool_86
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 261
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7055bf491fc040b4f51e6e71b9fb6
+      internalID: -928477758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76bceaf3fb8c654429cf3603341f4a44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gardening tool_82: -501856869
+      gardening tool_36: 727185363
+      gardening tool_80: -1842397461
+      gardening tool_65: 226111784
+      gardening tool_73: 1982541703
+      gardening tool_3: 1483212873
+      gardening tool_24: 907200306
+      gardening tool_13: -1487421000
+      gardening tool_67: -900146121
+      gardening tool_79: -915971595
+      gardening tool_72: -458559655
+      gardening tool_55: -43630764
+      gardening tool_45: 257554587
+      gardening tool_85: -566792777
+      gardening tool_40: -1387448822
+      gardening tool_48: -75799360
+      gardening tool_71: -1683121656
+      gardening tool_44: -909523658
+      gardening tool_37: 1865866513
+      gardening tool_28: 1764019831
+      gardening tool_30: -781018314
+      gardening tool_32: -943126252
+      gardening tool_53: 1248886716
+      gardening tool_84: 1760167426
+      gardening tool_15: -131134092
+      gardening tool_76: -20843919
+      gardening tool_34: -1149430021
+      gardening tool_5: -857820342
+      gardening tool_50: -2069297756
+      gardening tool_41: -241952089
+      gardening tool_35: -452583270
+      gardening tool_69: 630072557
+      gardening tool_54: 1327971659
+      gardening tool_58: 1712220871
+      gardening tool_49: 1937400739
+      gardening tool_75: -1020394511
+      gardening tool_83: 239288681
+      gardening tool_31: -1266406121
+      gardening tool_66: -1600537013
+      gardening tool_0: 798189055
+      gardening tool_78: -1730313955
+      gardening tool_38: -271642890
+      gardening tool_18: 820150276
+      gardening tool_56: 597340248
+      gardening tool_22: -900768795
+      gardening tool_77: 123332545
+      gardening tool_63: 150081766
+      gardening tool_42: 88324289
+      gardening tool_81: 1137007495
+      gardening tool_43: 565460290
+      gardening tool_27: -140492364
+      gardening tool_7: 864180809
+      gardening tool_8: 1737023065
+      gardening tool_59: 1895405984
+      gardening tool_74: 843989902
+      gardening tool_23: -1688769512
+      gardening tool_20: -1774826897
+      gardening tool_51: -1622334934
+      gardening tool_33: -1116307862
+      gardening tool_62: 971626851
+      gardening tool_21: -1425877165
+      gardening tool_16: -1567574367
+      gardening tool_70: 630719376
+      gardening tool_6: 2130215436
+      gardening tool_86: -928477758
+      gardening tool_26: -1713595691
+      gardening tool_12: 198749074
+      gardening tool_10: 1003449431
+      gardening tool_4: 1323781148
+      gardening tool_29: 873828753
+      gardening tool_60: 1048416580
+      gardening tool_9: 552158920
+      gardening tool_47: -931483229
+      gardening tool_17: 1469015777
+      gardening tool_11: -1836826512
+      gardening tool_25: 324066622
+      gardening tool_1: 1357872021
+      gardening tool_52: -914331497
+      gardening tool_57: -900860082
+      gardening tool_39: 1581767419
+      gardening tool_2: -997681125
+      gardening tool_46: 1946584614
+      gardening tool_61: -1490035784
+      gardening tool_68: -754736291
+      gardening tool_19: 334497805
+      gardening tool_64: -1914453461
+      gardening tool_14: -871483801
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

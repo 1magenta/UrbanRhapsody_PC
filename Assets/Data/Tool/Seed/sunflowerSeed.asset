@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a98907c3ddbba814190dc68808b48c82, type: 3}
+  m_Name: sunflowerSeed
+  m_EditorClassIdentifier: 
+  description: Seed to grow sunflower, it can create "Fa" sound
+  thumbnail: {fileID: -1983271916, guid: 091cd9ac25f840e4eb10c759aead0e65, type: 3}
+  gameModel: {fileID: 0}
+  daysToGrow: 2
+  plantToYield: {fileID: 11400000, guid: 7c8b7766aed08034292304300cb337ab, type: 2}
+  seeding: {fileID: 1000013410243764, guid: 83df2809eb3563c418e94720ba34a40b, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b5e3ad203d25d045ae2e5529e4f961b, type: 3}
+  m_Name: Daisy
+  m_EditorClassIdentifier: 
+  description: Daisy
+  thumbnail: {fileID: -1461434388, guid: 076eca903c1978145b85e710d602c951, type: 3}
+  gameModel: {fileID: 4214037226445159017, guid: d2474aaa2464b4342b183503d934a1e4,
+    type: 3}
